@@ -1,9 +1,0 @@
-numpy
-pandas
-random
-matplotlib.pyplot 
-matplotlib
-ipywidgets 
-IPython
-IPython.display 
-seaborn 
